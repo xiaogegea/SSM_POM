@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../OASystem" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM_MyPOM/Controller" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM_Project/SSM_Controller" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_MyPOM/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_Project/pom.xml" />
+        <option value="$PROJECT_DIR$/../OASystem/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../SSM_MyPOM/Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_MyPOM/Dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_MyPOM/Domain/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_MyPOM/Service/pom.xml" />
+        <option value="$PROJECT_DIR$/../SSM_MyPOM/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
